@@ -62,3 +62,4 @@ typings/
 
 public 
 .vscode
+.DS_Store
