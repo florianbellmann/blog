@@ -1,0 +1,9 @@
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "blog/themes/hermit"]
+	path = blog/themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "blog/themes/ananke"]
+	path = blog/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
