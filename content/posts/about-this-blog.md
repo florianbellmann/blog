@@ -8,3 +8,4 @@ Hi! This blog is my take on writing down realizations, thoughts and challenges I
 
 I am happy to share and I am glad if anything is of interest or use to you :) 
 
+Why do i write in english? Because I enjoy it :)
