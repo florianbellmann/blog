@@ -1,4 +1,4 @@
 # blog
 My simple blog
 
-Basically a poc if i like blogginfg. Also I wanted to try Hugo.
+Basically a poc if I like blogging. Also I wanted to try Hugo.
