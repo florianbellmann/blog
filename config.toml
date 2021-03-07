@@ -1,7 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://pi4/"
+languageCode = "de-de"
+title = "Flos Blog"
 
 theme = "purehugo"
-
-defaultContentLanguage = "de"
